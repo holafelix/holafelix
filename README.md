@@ -5,9 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=68&duration=4000&pause=1000&color=05D9E8&center=true&vCenter=true&repeat=false&width=700&height=110&lines=holafelix" alt="holafelix" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=16&duration=4000&pause=1000&color=FCEE0A&center=true&vCenter=true&repeat=false&width=700&height=30&lines=%2F%2F+jacked+into+the+mainframe" alt="tagline" />
+<img src="holafelix-title.png" alt="holafelix" width="620" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=600&color=FCEE0A&center=true&vCenter=true&width=680&lines=NETRUNNER+online+::+ICE+bypassed;01001000+01001001+//+decrypting+consciousness;Wake+up+samurai+-+we+have+code+to+burn;No+future.+Build+one.+Burn+the+rest." alt="glitch tagline" />
 
