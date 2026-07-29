@@ -24,7 +24,7 @@
 ║                                                      ║
 ║   USER      >  holafelix                             ║
 ║   CLASS     >  full-stack netrunner                  ║
-║   SECTOR    >  Night City // Melbourne               ║
+║   SECTOR    >  Night City //                         ║
 ║   STATUS    >  [██████████████░░░░]  JACKED IN       ║
 ║   LOADOUT   >  js · react · supabase · solder fumes  ║
 ║   ICE       >  bypassed                              ║
