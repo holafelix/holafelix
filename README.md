@@ -18,17 +18,19 @@
 ---
 
 ```
-▛▀▀ NETWATCH TERMINAL ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-▌
-▌  USER     ▸ holafelix
-▌  CLASS    ▸ full-stack netrunner
-▌  SECTOR   ▸ Night City // Melbourne
-▌  STATUS   ▸ ▓▓▓▓▓▓▓▓░░  JACKED IN
-▌  LOADOUT  ▸ js · react · supabase · solder fumes
-▌  ICE      ▸ bypassed
-▌  MOTTO    ▸ break it · patch it · ship it into the sprawl
-▌
-▙▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+╔══════════════════════════════════════════════════════╗
+║  NETWATCH TERMINAL                          [ONLINE]  ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║   USER      >  holafelix                             ║
+║   CLASS     >  full-stack netrunner                  ║
+║   SECTOR    >  Night City // Melbourne               ║
+║   STATUS    >  [██████████████░░░░]  JACKED IN       ║
+║   LOADOUT   >  js · react · supabase · solder fumes  ║
+║   ICE       >  bypassed                              ║
+║   MOTTO     >  break it · patch it · ship it         ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 ### ⚡ ARSENAL
