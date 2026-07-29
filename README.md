@@ -72,7 +72,7 @@ const felix = {
 ### 📊 The receipts
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=holafelix&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true" alt="commit streak" />
 </div>
 
