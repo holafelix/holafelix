@@ -2,9 +2,11 @@
   <img src="assets/name.svg" height="80" alt="Felix"/>
 </p>
 
+<h1 align="center">Hey, I'm Felix👋</h1>
+
 <p align="center">
-  Software Engineering student at Deakin University, Melbourne.<br/>
-  I build web apps, tinker with IoT hardware, and shoot street photography on film.
+  <b>Software Engineering student</b> @ <b>Deakin University</b>, Melbourne 🇦🇺<br/>
+  I build <b>web apps</b>, tinker with <b>IoT hardware</b>, and shoot <b>street photography on film</b> 🎞️
 </p>
 
 <p align="center">
