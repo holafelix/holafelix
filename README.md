@@ -36,6 +36,7 @@
 
 ### Activity
 
+<img src="https://raw.githubusercontent.com/holafelix/holafelix/main/github-metrics.svg" alt="GitHub metrics"/>
 
 <img src="https://metrics.lecoq.io/holafelix" alt="GitHub metrics"/>
 
