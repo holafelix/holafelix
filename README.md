@@ -2,8 +2,6 @@
   <img src="assets/name.svg" height="80" alt="Felix"/>
 </p>
 
-<h1 align="center">Hey, I'm Felix👋</h1>
-
 <p align="center">
   <b>Software Engineering student</b> @ <b>Deakin University</b>, Melbourne 🇦🇺<br/>
   I build <b>web apps</b>, tinker with <b>IoT hardware</b>, and shoot <b>street photography on film</b> 🎞️
