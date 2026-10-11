@@ -23,25 +23,25 @@
 ### Stack
 
 **Languages**<br/>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css&theme=light"><img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css" height="48" alt=""/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Cpy%2Ccpp%2Chtml%2Ccss&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Cpy%2Ccpp%2Chtml%2Ccss&theme=light"><img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css" height="48" alt=""/></picture>
 
 **Frameworks and platforms**<br/>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase,vercel&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase,vercel&theme=light"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase,vercel" height="48" alt=""/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Csupabase%2Cvercel&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Csupabase%2Cvercel&theme=light"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase,vercel" height="48" alt=""/></picture>
 
 **Hardware and tools**<br/>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino,git,github,ai&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=arduino,git,github,ai&theme=light"><img src="https://skillicons.dev/icons?i=arduino,git,github,ai" height="48" alt=""/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino%2Cgit%2Cgithub%2Cai&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=arduino%2Cgit%2Cgithub%2Cai&theme=light"><img src="https://skillicons.dev/icons?i=arduino,git,github,ai" height="48" alt=""/></picture>
 
 ### Projects
 
 | Project | Description | Stack |
 | :-- | :-- | :-- |
-| [**cityinfilm**](https://github.com/holafelix/cityinfilm) | Photography portfolio with login and upload admin panel | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase&theme=light"><img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase" height="36" alt=""/></picture> |
-| **IoT sensor pipeline** | Arduino Nano 33 IoT streaming sensor data to the cloud | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino,cpp&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=arduino,cpp&theme=light"><img src="https://skillicons.dev/icons?i=arduino,cpp" height="36" alt=""/></picture> |
+| [**cityinfilm**](https://github.com/holafelix/cityinfilm) | Photography portfolio with login and upload admin panel | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Cts%2Ctailwind%2Csupabase&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs%2Cts%2Ctailwind%2Csupabase&theme=light"><img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase" height="36" alt=""/></picture> |
+| **IoT sensor pipeline** | Arduino Nano 33 IoT streaming sensor data to the cloud | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino%2Ccpp&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=arduino%2Ccpp&theme=light"><img src="https://skillicons.dev/icons?i=arduino,cpp" height="36" alt=""/></picture> |
 
 ### Activity
 
 <img src="https://raw.githubusercontent.com/holafelix/holafelix/main/github-metrics.svg" alt="GitHub metrics"/>
--->
+
 
 <p align="center">
   <sub>Open to internships and collaboration.</sub>
