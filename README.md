@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <sub>Open to internships and collaboration.</sub>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/seakmeng-oeng-30a4b6333/" title="LinkedIn: Seakmeng Oeng"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin&theme=light"><img src="https://skillicons.dev/icons?i=linkedin" height="44" title="LinkedIn: Seakmeng Oeng" alt="LinkedIn"/></picture></a> &nbsp;<a href="https://www.instagram.com/cityinfilm" title="Instagram: @cityinfilm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=instagram&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=instagram&theme=light"><img src="https://skillicons.dev/icons?i=instagram" height="44" title="Instagram: @cityinfilm" alt="Instagram"/></picture></a> &nbsp;<a href="https://github.com/holafelix" title="GitHub: holafelix"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light"><img src="https://skillicons.dev/icons?i=github" height="44" title="GitHub: holafelix" alt="GitHub"/></picture></a>
 </p>
 
@@ -53,8 +57,3 @@
 ### Activity
 
 <img src="https://raw.githubusercontent.com/holafelix/holafelix/main/github-metrics.svg" alt="GitHub metrics"/>
-
-
-<p align="center">
-  <sub>Open to internships and collaboration.</sub>
-</p>
